@@ -38,34 +38,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nilkanthdesai76&show_icons=true&theme=radical&hide_border=true" alt="Nilkanth's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nilkanthdesai76&theme=radical&hide_border=true" alt="Nilkanth's Streak Stats" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilkanthdesai76&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
-
-</div>
-
----
-
-### 🌟 Featured Open-Source Projects
-
-| Project | Category | Description |
-| :--- | :--- | :--- |
-| **[swiftui-notch-kit](https://github.com/nilkanthdesai76/swiftui-notch-kit)** | Swift Package | Lightweight Swift package for detecting MacBook notch geometry, camera safe areas, and display metrics on macOS. |
-| **[menubar-swiftui-template](https://github.com/nilkanthdesai76/menubar-swiftui-template)** | macOS Template | Production-ready starter architecture for building macOS menu bar apps with SwiftUI, NSPanel popovers, and Swift Concurrency. |
-| **[swift-modern-networking](https://github.com/nilkanthdesai76/swift-modern-networking)** | Swift Package | Type-safe, async/await HTTP networking client for Swift 6 with automatic retry backoff and interceptors. |
-| **[awesome-macos-engineering](https://github.com/nilkanthdesai76/awesome-macos-engineering)** | Resource Hub | Curated collection of advanced macOS engineering techniques, system windowing internals, and notch geometry. |
-| **[PhotoLibraryFramework](https://github.com/nilkanthdesai76/PhotoLibraryFramework)** | Swift Package | High-performance custom photo library picker and media management framework for iOS. |
-| **[NLinkLabel](https://github.com/nilkanthdesai76/NLinkLabel)** | Swift Package | Lightweight interactive label component with regex URL matching, link highlighting, and tap delegates. |
-
----
-
 <div align="center">
   <sub>Committed to high-craft software engineering and open collaboration.</sub>
 </div>
