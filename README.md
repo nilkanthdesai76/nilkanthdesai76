@@ -57,6 +57,10 @@
 
 | Project | Category | Description |
 | :--- | :--- | :--- |
+| **[swiftui-notch-kit](https://github.com/nilkanthdesai76/swiftui-notch-kit)** | Swift Package | Lightweight Swift package for detecting MacBook notch geometry, camera safe areas, and display metrics on macOS. |
+| **[menubar-swiftui-template](https://github.com/nilkanthdesai76/menubar-swiftui-template)** | macOS Template | Production-ready starter architecture for building macOS menu bar apps with SwiftUI, NSPanel popovers, and Swift Concurrency. |
+| **[swift-modern-networking](https://github.com/nilkanthdesai76/swift-modern-networking)** | Swift Package | Type-safe, async/await HTTP networking client for Swift 6 with automatic retry backoff and interceptors. |
+| **[awesome-macos-engineering](https://github.com/nilkanthdesai76/awesome-macos-engineering)** | Resource Hub | Curated collection of advanced macOS engineering techniques, system windowing internals, and notch geometry. |
 | **[PhotoLibraryFramework](https://github.com/nilkanthdesai76/PhotoLibraryFramework)** | Swift Package | High-performance custom photo library picker and media management framework for iOS. |
 | **[NLinkLabel](https://github.com/nilkanthdesai76/NLinkLabel)** | Swift Package | Lightweight interactive label component with regex URL matching, link highlighting, and tap delegates. |
 
